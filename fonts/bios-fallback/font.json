@@ -1,0 +1,164 @@
+{
+  "width": 160,
+  "height": 15,
+  "bpp": 1,
+  "bitOrder": "high-first",
+  "glyphs": [
+    {
+      "code": 59208,
+      "character": "踪",
+      "rect": [
+        0,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 57797,
+      "character": "眷",
+      "rect": [
+        16,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 58308,
+      "character": "翔",
+      "rect": [
+        32,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 40038,
+      "character": "彷",
+      "rect": [
+        48,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 40050,
+      "character": "徨",
+      "rect": [
+        64,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 58517,
+      "character": "苺",
+      "rect": [
+        80,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 57558,
+      "character": "獰",
+      "rect": [
+        96,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 59083,
+      "character": "賤",
+      "rect": [
+        112,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 59089,
+      "character": "贄",
+      "rect": [
+        128,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 40788,
+      "character": "©",
+      "rect": [
+        144,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  ],
+  "renderSize": [
+    12,
+    16
+  ],
+  "sampling": "sotn",
+  "lineSpacing": 16
+}
